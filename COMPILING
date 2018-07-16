@@ -1,0 +1,4 @@
+
+To compile for Microsoft Windows, use the build.cmd and clean.cmd Batch scripts
+in the repository root. For all other POSIX-compatible systems, use the
+build.sh and clean.sh shell scripts.
